@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: #333;
+    font-family: Georgia, serif;
+}
+#logo {
+    width: 200px;
+    margin: 1rem 0;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+  #author{
+    display: block;
+    color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-top: 1rem;
+}
+#featured {
+    border-left: 1px solid #ffd977;
+    padding-left: 1rem;
+    margin-top: 2rem;
+}
+
+#featured span {
+    color: #b5460f;
+    display: block;
+}
+  
+.content {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+#footer{
+    text-align: left;
+    margin: ;
+}
